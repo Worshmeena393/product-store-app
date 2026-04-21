@@ -150,4 +150,4 @@ Through this project, I learned:
  Author
 
 **Worshmeena Qayoumi**
-React Development Student
+
